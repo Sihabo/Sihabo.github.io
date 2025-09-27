@@ -1,4 +1,4 @@
-# Mon CV
+# À propos de moi
 
 Mon parcours m’a permis de construire un profil à la croisée des mathématiques appliquées, de l’économie et des sciences des données.  
 J’ai acquis de solides compétences en :  
@@ -15,7 +15,7 @@ Au-delà des aspects techniques, mes expériences professionnelles et associativ
 
 Vous pouvez consulter ou télécharger mon CV ci-dessous : 
 
-[CV Siham HAMMOUCH BOUDJOUDI](CV_fr.pdf) 
+[CV Siham Hammouch Boudjoudi](CV_fr.pdf) 
 
 Je me tiens bien sûr à disposition pour toute information complémentaire, que ce soit par mail (**siham.ham.bou@gmail.com**) ou par téléphone (**07.67.79.86.96**).  
 
