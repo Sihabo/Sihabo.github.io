@@ -5,5 +5,5 @@ J’ai une solide base en statistiques, modélisation et outils comme Python et 
 
 Ce site présente :
 - Mes [Matières](matieres.md)  avec les compétences associées. 
-- Certains [Projets](projets.md) que j'ai pu faire durant ma formation. 
-- Mon [CV](cv.md) 
+- Certains [Projets](projets.md) réalisés durant ma formation. 
+- Mon [CV](cv.md). 
