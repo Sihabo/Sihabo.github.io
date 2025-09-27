@@ -1,4 +1,5 @@
-# Matières étudiées
+# À propos de ma formation
+*(Enseignements & compétences)*
 
 ## Master 2 – Ingénierie des Risques Économiques et Financiers
 - Technology dynamics
