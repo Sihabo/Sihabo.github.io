@@ -4,8 +4,7 @@
 - **Contexte** : cours d'Économétrie 1 (Master 1)
 - **Objectif** : Le sujet était libre. Nous avons choisi de construire d'automatiser les outils de nettoyage de données Excel en VBA.
 - **Outils** : VBA, Excel
-- **Lien** :  Rapport : [Projet VBA](projet_vba.pdf)
-              Projet : [Lien](Projet-VBA.xlsx)).
+- **Lien** : [Code VBA](ProjetVBA.xlsm) | [Rapport PDF](Rapport_Projet_VBA.pdf)
 
 ---
 
