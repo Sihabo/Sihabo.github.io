@@ -35,7 +35,10 @@
 
 ---
 
-## Projet – Economie du risque et de l’assurance (Master 1)
+## Projet – Economie du risque et de l’assurance Partie 1 (Master 1)
 - **Consigne** : L'objectif de ce projet était de travailler sur l'aversion à l'ambiguité sur la base du modèle de prévention.
 - **Lien** : [Rendu PDF](projets/HAMMOUCH_SihamAss.pdf)
 
+## Projet – Economie du risque et de l’assurance Partie 2 (Master 1)
+- **Consigne** : Produire un essai sur la problématique "Quelles sont les principales fonctions économiques de l'assurance et comment aident-elles les individus, les entreprises et les gouvernements à gérer le risque ?"
+- **Lien** : [Rendu PDF](projets/Essai_Economie_du_risque_et_de_l_assrance.pdf)
