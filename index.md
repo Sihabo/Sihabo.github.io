@@ -1,13 +1,14 @@
 # Bienvenue
 
-<nav>
-  [Accueil](index.md) | 
-  [À propos de ma formation](matieres.md) | 
-  [Projets](projets.md) | 
-  [À propos de moi](cv.md)
+<nav style="text-align:center; font-size:16px; margin-bottom:20px;">
+  <a href="index.md">Accueil</a> |
+  <a href="matieres.md">À propos de ma formation</a> |
+  <a href="projets.md">Projets</a> |
+  <a href="cv.md">À propos de moi</a>
 </nav>
 
 ---
+
 
 Je m'appelle **Siham HAMMOUCH BOUDJOUDI**. Étudiante en Master 2 Ingénierie des Risques Économiques et Financiers, spécialité Economic Risks and Data Sciences. Je recherche un stage de fin d’études dès février/mars 2026 dans la Data Science ou l’Analysis. 
 J’ai une solide base en statistiques, modélisation et outils comme Python et R.
