@@ -1,19 +1,14 @@
 # Projets
 
-## Projet 1 – VBA
-- **Contexte** : cours d'Économétrie 1 (Master 1)
+## Projet 1 – VBA (Master 1)
 - **Objectif** : Le sujet était libre. Nous avons choisi de construire d'automatiser les outils de nettoyage de données Excel en VBA.
 - **Outils** : VBA, Excel
 - **Lien** : [Rapport PDF](projets/Rapport_Projet_VBA.pdf), [Télécharger le fichier Excel (VBA)](projets/ProjetVBA.xlsm)
 
 ---
 
-## Projet 2 – Séries temporelles
-- **Contexte** : Économétrie des séries temporelles
-- **Objectif** : Prévision de données financières
-- **Outils** : R
-- **Lien** : [Code](#)
+## Projet 2 – Systêmes dynamiques
+- **Objectif** : À la suite de la lecture d'un artciel présentant les méthodes de Pontryagin et Hamilton jacobi Bellman, construire un projet reprenant le raisonnement.
+- **Lien** : [Rapport PDF](projets/Système_Dynamique.pdf)
 
 ---
-
-*(Tu pourras répéter ce format pour chaque projet.)*
