@@ -1,4 +1,12 @@
 # À propos de moi
+<nav style="text-align:center; font-size:16px; margin-bottom:20px;">
+  <a href="index.html">Accueil</a> |
+  <a href="matieres.html">À propos de ma formation</a> |
+  <a href="projets.html">Projets</a> |
+  <a href="cv.html">À propos de moi</a>
+</nav>
+
+---
 
 Mon parcours m’a permis de construire un profil à la croisée des mathématiques appliquées, de l’économie et des sciences des données.  
 J’ai acquis de solides compétences en :  
