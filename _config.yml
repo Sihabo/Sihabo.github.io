@@ -1,16 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-cayman
 
 title: "Site personnel"
 description: "Master Ingénierie des Risques Économiques et Financiers, spécialité Economic Risks and Data Sciences"
-
-minimal_mistakes_skin: "air"
-
-nav:
-  - title: "Accueil"
-    url: /index.html
-  - title: "À propos de ma formation"
-    url: /matieres.html
-  - title: "Projets"
-    url: /projets.html
-  - title: "À propos de moi"
-    url: /cv.html
