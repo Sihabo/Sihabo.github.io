@@ -1,9 +1,9 @@
 # À propos de moi
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
-  <a href="index.html">Accueil</a> |
-  <a href="matieres.html">À propos de ma formation</a> |
-  <a href="projets.html">Travaux universitaires</a> |
-  <a href="cv.html">À propos de moi</a>
+  <a href="index.md">Accueil</a> |
+  <a href="matieres.md">À propos de ma formation</a> |
+  <a href="projets.md">Travaux universitaires</a> |
+  <a href="cv.md">À propos de moi</a>
 </nav>
 
 ---
