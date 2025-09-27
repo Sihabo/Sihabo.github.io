@@ -1,20 +1,18 @@
 # Activer le thème Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Informations du site
 title: "Site personnel"
 description: "Master Ingénierie des Risques Économiques et Financiers, spécialité Economic Risks and Data Sciences"
 
-# Choix du style graphique (sobre → "default" ou "air")
-minimal_mistakes_skin: "air"  
+minimal_mistakes_skin: "air"
 
 # Menu de navigation
 nav:
   - title: "Accueil"
-    url: index.md
+    url: /index.html
   - title: "À propos de ma formation"
-    url: matieres.md
+    url: /matieres.html
   - title: "Projets"
-    url: projets.md
+    url: /projets.html
   - title: "À propos de moi"
-    url: cv.md
+    url: /cv.html
