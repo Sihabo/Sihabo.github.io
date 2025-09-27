@@ -1,4 +1,14 @@
 theme: jekyll-theme-modernist
-
 title: "Site personnel"
 description: "Master Ingénierie des Risques Économiques et Financiers, spécialité Economic Risks and Data Sciences"
+
+# Menu de navigation
+navbar:
+  - name: "Accueil"
+    link: index.md
+  - name: "À propos de ma formation"
+    link: matieres.md
+  - name: "Projets"
+    link: projets.md
+  - name: "À propos de moi"
+    link: cv.md
