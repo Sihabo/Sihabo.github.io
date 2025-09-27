@@ -1,9 +1,12 @@
-theme: jekyll-theme-minimal
+# Activer le thème Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
+# Informations du site
 title: "Site personnel"
 description: "Master Ingénierie des Risques Économiques et Financiers, spécialité Economic Risks and Data Sciences"
 
-minimal_mistakes_skin: "default"  # (peut aussi tester "air", "contrast", "neon")
+# Choix du style graphique (sobre → "default" ou "air")
+minimal_mistakes_skin: "air"  
 
 # Menu de navigation
 nav:
