@@ -24,6 +24,6 @@
 ## Projet – Introduction à R (Master 1)
 - **Consigne** : L’objectif de ce projet était de comprendre le lien entre la performance d’innovation des entreprises (mesurée par les dépots de brevets) et leur demande de compétences.
 - **Outils** : R
-- **Lien** : [Rendu html](projets/projet.pdf) [Voir le site en ligne]([https://tonlien.shinyapps.io/nomdusite/](https://ir24-m.github.io/SiteR/index.html))
+- **Lien** : [Rendu html](projets/projet.pdf) [Voir le site en ligne](https://ir24-m.github.io/SiteR/index.html)
 
 ---
