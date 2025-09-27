@@ -3,7 +3,7 @@
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
   <a href="index.md">Accueil</a> |
   <a href="matieres.md">À propos de ma formation</a> |
-  <a href="projets.md">Projets</a> |
+  <a href="projets.md">Mes projets</a> |
   <a href="cv.md">À propos de moi</a>
 </nav>
 
