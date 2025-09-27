@@ -32,3 +32,10 @@
 - **Consigne** : Décrire et analyser la structure d'un réseau 
 - **Outils** : Python
 - **Lien** : [Rendu PDF](projets/HAMMOUCH_Siham.pdf) [Support présentation oral](projets/Collaborations_scientifiques.png)
+
+---
+
+## Projet – Economie du risque et de l’assurance (Master 1)
+- **Consigne** : L'objectif de ce projet était de travailler sur l'aversion à l'ambiguité sur la base du modèle de prévention.
+- **Lien** : [Rendu PDF](projets/HAMMOUCH_SihamAss.pdf)
+
