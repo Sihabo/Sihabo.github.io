@@ -1,4 +1,4 @@
-# Mes projets
+# Travaux universitaires
 
 ## Projet – VBA (Master 1)
 - **Consigne** : Le sujet était libre. Nous avons choisi de construire d'automatiser les outils de nettoyage de données Excel en VBA.
