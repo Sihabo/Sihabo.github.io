@@ -31,4 +31,4 @@
 ## Projet – Analyse des Réseaux (Master 1)
 - **Consigne** : Décrire et analyser la structure d'un réseau 
 - **Outils** : Python
-- **Lien** : [Rendu PDF](projets/HAMMOUCH_Siham.pdf) [Support présentation oral](Collaborations scientifiques.png)
+- **Lien** : [Rendu PDF](projets/HAMMOUCH_Siham.pdf) [Support présentation oral](projets/Collaborations scientifiques.png)
