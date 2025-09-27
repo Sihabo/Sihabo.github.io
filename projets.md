@@ -7,8 +7,8 @@
 
 ---
 
-## Projet 2 – Systêmes dynamiques
+## Projet 2 – Systèmes dynamiques
 - **Objectif** : À la suite de la lecture d'un artciel présentant les méthodes de Pontryagin et Hamilton jacobi Bellman, construire un projet reprenant le raisonnement.
-- **Lien** : [Rapport PDF](projets/Système_Dynamique.pdf)
+- **Lien** : [Rapport PDF](projets/Systeme_Dynamique.pdf)
 
 ---
