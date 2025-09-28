@@ -14,7 +14,7 @@ J’ai acquis de solides compétences en :
 - **Programmation et data science** : Python, R, C++, VBA, apprentissage automatique, deep learning ;  
 - **Finance et économie** : marchés financiers, théorie du risque, gestion des risques économiques, prudentiels et climatiques.  
 
-La deuxième année de master me permet de consolider ces acquis et d’aller plus loin dans cette direction, en renforçant les aspects techniques et méthodologiques. Elle m’offre aussi l’occasion de corriger certains points qui avaient pu limiter la portée de mes travaux précédents.  
+La deuxième année de master me permet d'approfondir ma formation en renforçant les aspects techniques et méthodologiques.
 
 Au-delà des aspects techniques, mes expériences professionnelles et associatives m’ont permis de développer :  
 - rigueur et esprit critique,  
@@ -25,10 +25,11 @@ Vous pouvez consulter ou télécharger mon CV ci-dessous :
 
 [CV Siham Hammouch Boudjoudi](CV_fr.pdf) 
 
-Je me tiens bien sûr à disposition pour toute information complémentaire, que ce soit par mail (**siham.ham.bou@gmail.com**) ou par téléphone (**07.67.79.86.96**).  
+Je reste disponible pour toute information complémentaire. 
+Mail : **siham.ham.bou@gmail.com** 
+Téléphone **07.67.79.86.96**
 
-Merci d’avoir pris le temps de consulter mon parcours.  
-J’espère avoir bientôt l’occasion d’échanger avec vous.
+Au plaisir d'avoir l’occasion de nous rencontrer.
 
 ---
 
