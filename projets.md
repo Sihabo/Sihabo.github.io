@@ -9,6 +9,10 @@
 
 ---
 
+Dans cette section j'ai regroupé une sélection de mes travaux universitaires, allant de projets complets à des exercices plus ciblés, réalisés pour approfondir certaines notions.
+
+---
+
 ## Projet – Outils informatiques pour les sciences des données (Master 1)
 - **Consigne** : Nettoyer et débuter l'analyse de données sur les accidents de la route. Fusion de deux bases différentes.
 - **Langage** : Python
