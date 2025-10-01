@@ -16,7 +16,7 @@
 - Complex Economic Dynamics
 - Dynamics of Networks
 - Scoring et applications, risque crédit
-- Value at Risk
+- Introduction à la Value at Risk et backtesting
 - Econometrics of Big Data 2 (Python)
 - Climate Risks and Finance
 - Big Data Tools for Economists
