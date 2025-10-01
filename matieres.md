@@ -29,7 +29,7 @@
 
 ## Master 1 – Ingénierie des Risques Économiques et Financiers
 - Statistiques Inférentielles (R)  
-- Économétrie 1 (R)  
+- Économétrie (R)  
 - Représentation de données et statistique multidimensionnelle (R)  
 - Outils informatiques pour les sciences des données (Python, Markdown)  
 - Économétrie des séries temporelles (R)  
