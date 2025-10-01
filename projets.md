@@ -1,3 +1,4 @@
+
 # Travaux universitaires
 
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
@@ -16,7 +17,7 @@ Dans cette section j'ai regroupé une sélection de mes travaux universitaires, 
 ## Projet – Outils informatiques pour les sciences des données (Master 1)
 - **Consigne** : Nettoyer et débuter l'analyse de données sur les accidents de la route. Fusion de deux bases différentes.
 - **Langage** : Python
-- **Lien** : [Télécharger le rapport ipynb](projets/xksan
+- **Lien** : [Télécharger le rapport ipynb](projets/outinfo.zip)
 
 
 ---
