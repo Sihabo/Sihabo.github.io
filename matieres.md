@@ -44,7 +44,8 @@
 - Analyse des réseaux (Python)  
 - Systèmes dynamiques en économie  
 - Économie de l’innovation
-- Anglais, Mise en situation professionnelle / TER-TEP
+- Anglais
+- Mise en situation professionnelle
 
 ---
 
@@ -52,9 +53,9 @@
 - Résolution de grands systèmes creux (C++)  
 - Programmation avancée pour le calcul scientifique (C++)  
 - Équations différentielles et calcul différentiel 
-- Intégration appliquée
+- Intégrations appliquées
 - Image et traitement du signal (Fourier, filtrage, Python)  
-- Introduction à l'analyse numérique (Python) 
+- Analyse numérique (Python) 
 - Analyse fonctionnelle
 - Algorithmique des tableaux (Python) 
 - Méthodes numériques pour l'intégration et les équations différentielles   
