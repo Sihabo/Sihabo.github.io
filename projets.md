@@ -53,7 +53,7 @@ Dans cette section j'ai regroupé une sélection de mes travaux universitaires, 
 ## Projet – Introduction à R (Master 1)
 - **Consigne** : L’objectif de ce projet était de comprendre le lien entre la performance d’innovation des entreprises (mesurée par les dépots de brevets) et leur demande de compétences.
 - **Langage** : R
-- **Lien** : [Rendu html](projets/projetR.html) [Voir le site en ligne](https://ir24-m.github.io/SiteR/index.html)
+- **Lien** : [Rendu html](projets/ProjetR.html) [Voir le site en ligne](https://ir24-m.github.io/SiteR/index.html)
 
 ---
 
