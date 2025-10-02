@@ -26,7 +26,7 @@ Vous pouvez consulter ou télécharger mon CV ci-dessous :
 [CV Siham Hammouch Boudjoudi](CV_fr.pdf) 
 
 Je reste disponible pour toute information complémentaire. \
-Mail : **siham.ham.bou@gmail.com** 
+Mail : **siham.ham.bou@gmail.com** \
 Téléphone **07.67.79.86.96**
 
 Au plaisir d'avoir l’occasion de vous rencontrer.
