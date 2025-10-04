@@ -27,12 +27,15 @@ Vous pouvez découvrir ces travaux en cliquant sur la catégorie qui vous intér
   </a>
 </p>
 
+<div style="display:none">
 <style>
 a:hover {
   opacity: 0.85;
   transform: scale(1.03);
 }
 </style>
+</div>
+
 
 
 ---
