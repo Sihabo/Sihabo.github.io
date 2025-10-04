@@ -17,7 +17,7 @@
 
 ## Projet – Économie du risque et de l’assurance (Partie 2)
 - **Consigne** : Essai sur le rôle économique de l’assurance dans la gestion du risque.
-- **Lien** : [Rendu PDF](projets/Essai_Economie_du_risque_et_de_l_assurance.pdf)
+- **Lien** : [Rendu PDF](projets/Essai_Economie_du_risque_et_de_l_assrance.pdf)
 
 ---
 ## Projet – Systèmes dynamiques (Master 1)
