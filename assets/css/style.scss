@@ -16,10 +16,12 @@
   font-weight: 500;
   margin: 8px;
 }
+
 .btn-blue  { background-color: #007acc; }
 .btn-green { background-color: #2e8b57; }
 
 .btn:hover {
   opacity: .85;
   transform: scale(1.03);
+  color: #fff !important; 
 }
