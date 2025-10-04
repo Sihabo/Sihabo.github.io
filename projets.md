@@ -1,4 +1,3 @@
-
 # Travaux universitaires
 
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
@@ -10,69 +9,31 @@
 
 ---
 
-Dans cette section j'ai regroupé une sélection de mes travaux universitaires, allant de projets complets à des exercices plus ciblés, réalisés pour approfondir certaines notions.
+Dans cette section, j’ai regroupé une sélection de mes travaux universitaires, allant de projets complets à des exercices plus ciblés, réalisés pour approfondir certaines notions. 
+Certains sont orientés data science et analyse, d’autres davantage économiques et mathématiques.
+
+Vous pouvez découvrir ces travaux en cliquant sur la catégorie qui vous intéresse ci-dessous.
 
 ---
 
-## Projet – Outils informatiques pour les sciences des données (Master 1)
-- **Consigne** : Nettoyer et débuter l'analyse de données sur les accidents de la route. Fusion de deux bases différentes. Bases aux choix de l'étudiant.
-- **Langage** : Python
-- **Lien** : [Télécharger le rapport ipynb](projets/outinfo.zip)
+<p style="text-align:center; margin:40px 0;">
+  <a href="projets_data.html" 
+     style="background-color:#007acc; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; margin:8px; display:inline-block; transition:0.3s;">
+     Projets Data Science / Analyse
+  </a>
+  <a href="projets_eco.html" 
+     style="background-color:#2e8b57; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; margin:8px; display:inline-block; transition:0.3s;">
+     Projets Économiques et Mathématiques
+  </a>
+</p>
 
+<style>
+a:hover {
+  opacity: 0.85;
+  transform: scale(1.03);
+}
+</style>
 
----
-
-## Projet – VBA (Master 1)
-- **Consigne** : Le sujet était libre. Nous avons choisi d'automatiser certains outils de nettoyage de données Excel en VBA.
-- **Langage** : VBA (Excel)
-- **Lien** : [Rapport PDF](projets/Rapport_Projet_VBA.pdf), [Télécharger le fichier Excel (VBA)](projets/ProjetVBA.xlsm)
-
----
-
-## Projet – Systèmes dynamiques (Master 1)
-- **Consigne** : "À la suite de la lecture d'un article présentant les méthodes de Pontryagin et Hamilton Jacobi Bellman, construire un rapport reprenant le raisonnement."
-- **Lien** : [Rapport PDF](projets/Systeme_Dynamique.pdf)
-
-  
----
-
-## Projet – Économétrie Big Data (Master 1)
-- **Consigne** : "Apporter une caractérisation des groupes à risque de la base de donnée"(données imposée).
-- **Langage** : LaTex, Python
-- **Lien** : [Rapport PDF](projets/DM_Big_Data_HAMMOUCH_Siham.pdf)
-  
----
-
-## Projet – Représentation de données et statistique multidimensionnelle (Master 1)
-- **Consigne** : Répondre à plusieurs questions concernant une base. La présentation ne devait pas être soignée, seule les réponses étaient évaluées. 
-- **Langage** : R
-- **Lien** : [Rendu PDF](projets/projet.pdf)
-  
----
-
-## Projet – Introduction à R (Master 1)
-- **Consigne** : L’objectif de ce projet était de comprendre le lien entre la performance d’innovation des entreprises (mesurée par les dépots de brevets) et leur demande de compétences.
-- **Langage** : R
-- **Lien** : [Rendu html](projets/ProjetR.html) [Voir le site en ligne](https://ir24-m.github.io/SiteR/index.html)
-
----
-
-## Projet – Analyse des Réseaux (Master 1)
-- **Consigne** : "Décrire et analyser la structure d'un réseau."
-- **Langage** : Python
-- **Lien** : [Rendu PDF](projets/HAMMOUCH_Siham.pdf) [Support présentation oral](projets/Collaborations_scientifiques.png)
-
----
-
-## Projet – Economie du risque et de l’assurance Partie 1 (Master 1)
-- **Consigne** : L'objectif de ce projet était de travailler sur l'aversion à l'ambiguité sur la base du modèle de prévention.
-- **Lien** : [Rendu PDF](projets/HAMMOUCH_SihamAss.pdf)
-
----
-
-## Projet – Economie du risque et de l’assurance Partie 2 (Master 1)
-- **Consigne** : Produire un essai sur la problématique "Quelles sont les principales fonctions économiques de l'assurance et comment aident-elles les individus, les entreprises et les gouvernements à gérer le risque ?"
-- **Lien** : [Rendu PDF](projets/Essai_Economie_du_risque_et_de_l_assrance.pdf)
 
 ---
 
@@ -82,4 +43,3 @@ Dans cette section j'ai regroupé une sélection de mes travaux universitaires, 
   <a href="/projets.html">Travaux universitaires</a> ·
   <a href="/cv.html">À propos de moi</a>
 </p>
-
