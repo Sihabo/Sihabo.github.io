@@ -8,8 +8,6 @@
 </nav>
 
 ---
----
-_______________
 
 ## Projet – Économie du risque et de l’assurance (Partie 1)
 - **Consigne** : Étude sur l’aversion à l’ambiguïté selon le modèle de prévention.
@@ -20,6 +18,11 @@ _______________
 ## Projet – Économie du risque et de l’assurance (Partie 2)
 - **Consigne** : Essai sur le rôle économique de l’assurance dans la gestion du risque.
 - **Lien** : [Rendu PDF](projets/Essai_Economie_du_risque_et_de_l_assurance.pdf)
+
+---
+## Projet – Systèmes dynamiques (Master 1)
+- **Consigne** : Rédiger un rapport reprenant le raisonnement d’un article de recherche sur les méthodes de Pontryagin et d’Hamilton–Jacobi–Bellman.
+- **Lien** : [Rapport PDF](projets/Systeme_Dynamique.pdf)
 
 ---
 
