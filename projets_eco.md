@@ -8,6 +8,8 @@
 </nav>
 
 ---
+---
+_______________
 
 ## Projet – Économie du risque et de l’assurance (Partie 1)
 - **Consigne** : Étude sur l’aversion à l’ambiguïté selon le modèle de prévention.
