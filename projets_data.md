@@ -26,7 +26,7 @@
 ## Projet – Analyse des Réseaux (Master 1)
 - **Consigne** : Décrire et analyser la structure d'un réseau.
 - **Langage** : Python
-- **Lien** : [Rendu PDF](projets/HAMMOUCH_Siham.pdf) | [Support oral](projets/Collaborations_scientifiques.png)
+- **Lien** : [Rendu PDF](projets/HAMMOUCH_Siham.pdf), [Support oral](projets/Collaborations_scientifiques.png)
 
 ---
 
@@ -47,7 +47,7 @@ ___
 ## Projet – Introduction à R (Master 1)
 - **Consigne** : L’objectif de ce projet était de comprendre le lien entre la performance d’innovation des entreprises (mesurée par les dépots de brevets) et leur demande de compétences.
 - **Langage** : R
-- **Lien** : [Rendu html](projets/ProjetR.html) [Voir le site en ligne](https://ir24-m.github.io/SiteR/index.html)
+- **Lien** : [Rendu html](projets/ProjetR.html), [Voir le site en ligne](https://ir24-m.github.io/SiteR/index.html)
 
 ___
 
