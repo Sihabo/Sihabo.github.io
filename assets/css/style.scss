@@ -1,0 +1,25 @@
+---
+---
+// On importe la feuille du thème Cayman
+@import "{{ site.theme }}";
+
+/* ==== Tes ajouts / overrides ==== */
+
+/* Style générique des boutons */
+.btn {
+  color: #fff !important;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  transition: .3s;
+  font-weight: 500;
+  margin: 8px;
+}
+.btn-blue  { background-color: #007acc; }
+.btn-green { background-color: #2e8b57; }
+
+.btn:hover {
+  opacity: .85;
+  transform: scale(1.03);
+}
