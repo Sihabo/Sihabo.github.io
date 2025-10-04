@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 # Travaux universitaires
 
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
