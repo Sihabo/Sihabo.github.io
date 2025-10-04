@@ -17,22 +17,10 @@ Vous pouvez découvrir ces travaux en cliquant sur la catégorie qui vous intér
 ---
 
 <p style="text-align:center; margin:40px 0;">
-  <a href="projets_data.html" 
-     style="background-color:#007acc; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; margin:8px; display:inline-block; transition:0.3s;">
-     Projets Data Science / Analyse
-  </a>
-  <a href="projets_eco.html" 
-     style="background-color:#2e8b57; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; margin:8px; display:inline-block; transition:0.3s;">
-     Projets Économiques et Mathématiques
-  </a>
+  <a href="projets_data.html" class="btn btn-blue">Projets Data Science / Analyse</a>
+  <a href="projets_eco.html"  class="btn btn-green">Projets Économiques et Mathématiques</a>
 </p>
 
-<style>
-a:hover {
-  opacity: 0.85;
-  transform: scale(1.03);
-}
-</style>
 
 
 ---
