@@ -17,8 +17,8 @@ Vous pouvez découvrir ces travaux en cliquant sur la catégorie qui vous intér
 ---
 
 <p style="text-align:center; margin:40px 0;">
-  <a href="projets_data.html" class="btn btn-blue">Projets Data Science / Analyse</a>
-  <a href="projets_eco.html"  class="btn btn-green">Projets Économiques et Mathématiques</a>
+  <a href="projets_data.md" class="btn btn-blue">Projets Data Science / Analyse</a>
+  <a href="projets_eco.md"  class="btn btn-green">Projets Économiques et Mathématiques</a>
 </p>
 
 
