@@ -27,5 +27,5 @@
 ---
 
 <p style="text-align:center; font-size:16px; margin:24px 0;">
-  <a href="projets.html">← Retour aux Travaux universitaires</a>
+  <a href="projets.html"> Retour aux Travaux universitaires</a>
 </p>
