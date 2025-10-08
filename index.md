@@ -8,7 +8,6 @@
 ---
 
 Je m'appelle **Siham HAMMOUCH BOUDJOUDI**. Je suis étudiante en Master 2 Ingénierie des Risques Économiques et Financiers, spécialité Economic Risks and Data Sciences. Je recherche un stage de fin d’études dès février/mars 2026 dans la Data Science ou Analyse (possibilité de commencer plus tôt) .
-
 J’ai une solide base en statistiques, modélisation ainsi qu'en programation dans différents langages tels que Python et R.
 
 Je vous présente sur ce site :
