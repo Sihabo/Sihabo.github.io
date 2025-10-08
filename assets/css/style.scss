@@ -3,25 +3,34 @@
 // On importe la feuille du thème Cayman
 @import "{{ site.theme }}";
 
-/* ==== Tes ajouts / overrides ==== */
+/* ==== Styles personnalisés ==== */
 
 /* Style générique des boutons */
 .btn {
   color: #fff !important;
-  padding: 12px 24px;
-  border-radius: 8px;
+  padding: 12px 28px;
+  border-radius: 10px;
   text-decoration: none;
   display: inline-block;
-  transition: .3s;
+  transition: all 0.25s ease-in-out;
   font-weight: 500;
   margin: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
 }
 
 .btn-blue  { background-color: #007acc; }
 .btn-green { background-color: #2e8b57; }
 
+/* Effet au survol */
 .btn:hover {
-  opacity: .85;
-  transform: scale(1.03);
-  color: #fff !important; 
+  filter: brightness(1.15);
+  transform: translateY(-2px);
+  color: #fff !important; /* garde le texte blanc */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+/* Effet au clic */
+.btn:active {
+  transform: scale(0.97);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
