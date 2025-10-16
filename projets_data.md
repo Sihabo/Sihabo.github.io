@@ -9,6 +9,13 @@
 
 ---
 
+## Projet – Économétrie Big Data (Master 2)
+- **Consigne** : Construire une classification.
+- **Langage** : Python
+- **Lien** : [Rapport PDF](projets/DM1.pdf) [Télécharger le support de présentation oral (ZIP)](projets/DM1.zip)
+- 
+---
+
 ## Projet – VBA (Master 1)
 - **Consigne** : Automatisation d’outils de nettoyage de données Excel.
 - **Langage** : VBA (Excel)
