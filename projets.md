@@ -10,7 +10,6 @@
 ---
 
 Dans cette section, j’ai regroupé une sélection de mes travaux universitaires, allant de projets complets à des exercices plus ciblés, réalisés pour approfondir certaines notions. 
-Certains sont orientés data science et analyse, d’autres davantage économiques et mathématiques.
 
 Vous pouvez découvrir ces travaux en cliquant sur la catégorie qui vous intéresse ci-dessous.
 
