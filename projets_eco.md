@@ -1,4 +1,5 @@
-# Projets Économiques et Mathématiques
+# Travaux d’analyse et de réflexion économique et Mathématiques
+
 
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
   <a href="index.html">Accueil</a> |
