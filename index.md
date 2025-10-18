@@ -12,7 +12,7 @@ J’ai une solide base en statistiques, modélisation ainsi qu'en programation d
 
 Je vous présente sur ce site :
 - Mes [Matières](matieres.md)  avec les compétences associées. 
-- Certains [Projets](projets.md) réalisés durant ma formation. 
+- Certains [Projets](projets.md) que j'ai réalisé. 
 - Mon [CV](cv.md). 
 
 ---
