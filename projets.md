@@ -3,7 +3,7 @@
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
   <a href="index.html">Accueil</a> |
   <a href="matieres.html">À propos de ma formation</a> |
-  <a href="projets.html">Travaux universitaires</a> |
+  <a href="projets.html">Projets et analyses</a> |
   <a href="cv.html">À propos de moi</a>
 </nav>
 
@@ -27,6 +27,6 @@ Vous pouvez découvrir ces travaux en cliquant sur la catégorie qui vous intér
 <p style="text-align:center; font-size:16px; margin:24px 0;">
   <a href="/index.html">Accueil</a> ·
   <a href="/matieres.html">À propos de ma formation</a> ·
-  <a href="/projets.html">Travaux universitaires</a> ·
+  <a href="/projets.html">Projets et analyses</a> ·
   <a href="/cv.html">À propos de moi</a>
 </p>
