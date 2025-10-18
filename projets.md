@@ -15,10 +15,11 @@ Vous pouvez découvrir ces réalisations en cliquant sur la catégorie qui vous 
 
 <!-- BOUTONS EN LIGNE -->
 <div style="text-align:center; margin:40px 0; display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-  <a href="projets_data.html" class="btn btn-blue" style="flex:1; min-width:200px; max-width:260px;">Projets techniques<br>(Python, R, VBA...)</a>
-  <a href="projets_eco.html" class="btn btn-green" style="flex:1; min-width:200px; max-width:260px;">Travaux d’analyse et de réflexion<br>économique et mathématiques</a>
-  <a href="challenges.html" class="btn btn-purple" style="flex:1; min-width:200px; max-width:260px;">Challenges & Hackathons</a>
+  <a href="projets_data.html" class="btn" style="background-color:#3b82f6; color:white; padding:12px 20px; border-radius:8px; text-decoration:none; flex:1; min-width:200px; max-width:260px;">Projets techniques<br>(Python, R, VBA...)</a>
+  <a href="projets_eco.html" class="btn" style="background-color:#10b981; color:white; padding:12px 20px; border-radius:8px; text-decoration:none; flex:1; min-width:200px; max-width:260px;">Travaux d’analyse et de réflexion<br>économique et mathématiques</a>
+  <a href="challenges.html" class="btn" style="background-color:#f59e0b; color:white; padding:12px 20px; border-radius:8px; text-decoration:none; flex:1; min-width:200px; max-width:260px;">Challenges & Hackathons</a>
 </div>
+
 
 ---
 
