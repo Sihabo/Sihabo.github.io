@@ -1,4 +1,4 @@
-# Projets techniques (Python, R, VBA...)</a>
+# Projets techniques (Python, R, VBA...)
 
 <nav style="text-align:center; font-size:16px; margin-bottom:20px;">
   <a href="index.html">Accueil</a> |
