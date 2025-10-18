@@ -40,11 +40,9 @@ Ces expériences me permettent de mettre en pratique mes compétences techniques
 Les résultats, codes et rapports seront ajoutés au cours de leur constructions et à l’issue de ces compétitions.
 </p>
 
----
+___
+
 
 <p style="text-align:center; font-size:16px; margin:24px 0;">
-  <a href="index.html">Accueil</a> ·
-  <a href="matieres.html">À propos de ma formation</a> ·
-  <a href="projets.html">Projets & réalisations</a> ·
-  <a href="cv.html">À propos de moi</a>
+  <a href="projets.html"> Retour à la page "Projets et analyses"</a>
 </p>
