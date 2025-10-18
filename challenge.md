@@ -13,4 +13,4 @@ Participation à des compétitions en data science, centrées sur la modélisati
 - **Objectif :** Machine Learning appliqué à la finance  
 - **Statut :** En attente de lancement  
 
-📊 Les résultats et livrables seront ajoutés à l’issue des compétitions.
+Les résultats et livrables seront ajoutés à l’issue des compétitions.
